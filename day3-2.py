@@ -27,4 +27,4 @@ for filename in os.listdir(directory):
             #print(userfilesize)
             ufslist.append(userfilesize)
             print(ufslist)
-            
+            #hello 
